@@ -58,7 +58,11 @@ h2 {
 /* Colors */
 
 /* QUESTION 1 */
-
+ .red-threevert {
+  background-color: #e10017;
+  width: 20px;
+  height: 40px;
+ }
 .orange {
   background-color: orange;
 }
@@ -91,10 +95,11 @@ h2 {
   background-color: #000;
 }
 
+
 /* BEGIN QUESTION 2 */
 
 .thailand-red {
-  /* TODO */
+  background-color: #B5002D;
 }
 
 .thailand-white {
